@@ -2,7 +2,7 @@ package javapack;
 class student{
 	int rollno;
 	String name;
-	Student(){
+	{
 		
 	}
 }
