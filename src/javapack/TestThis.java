@@ -3,6 +3,7 @@ class student{
 	int rollno;
 	String name;
 	int number;
+	int number2;
 	{
 		
 	}
