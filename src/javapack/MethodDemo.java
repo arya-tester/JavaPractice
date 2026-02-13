@@ -7,16 +7,14 @@ public class MethodDemo {
 		
 		doLogin();
 		doLogin();
-		doLogin();
 		md.doLogout();
-		diffParams("arya", 29, 90000);
-		
 		System.out.println(md.sameParams(5,10));
+		diffParams("arya", 29, 90000);
 	}
 	public static void doLogin() {
 		System.out.println("Logged in successfully");
 	}
-	public static void doLogout() {
+	public  void doLogout() {
 		System.out.println("Logged out successfully");
 	}
 	public int sameParams(int x,int y) {
