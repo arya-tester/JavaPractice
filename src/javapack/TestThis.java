@@ -4,6 +4,7 @@ class student{
 	String name;
 	int number;
 	int number2;
+	int number3;
 	{
 		
 	}
